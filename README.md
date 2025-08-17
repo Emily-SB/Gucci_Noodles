@@ -28,9 +28,10 @@ gucci-noodles/
 ├── style.css
 ├── script.js
 └── assets/
-    ├── image1.jpg
-    ├── image2.jpg
-    └── image3.jpg
+    ├── gallery1.png
+    ├── gallery2.png
+    ├── gallery3.png
+    └── hero.png
 ```
 
 ---
